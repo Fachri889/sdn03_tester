@@ -103,14 +103,14 @@ $nama_sekolah = getSetting($koneksi, 'nama_sekolah');
             </div>
 
             <!-- Hint kredensial default -->
-            <div class="mt-4 p-3 rounded-3" style="background:var(--kuning-light); border:1px solid var(--kuning);">
+            <!-- <div class="mt-4 p-3 rounded-3" style="background:var(--kuning-light); border:1px solid var(--kuning);">
                 <small class="text-muted">
                     <i class="fas fa-info-circle me-1" style="color:var(--kuning-dark);"></i>
                     <strong>Default login:</strong><br>
                     Super Admin: <code>superadmin</code> / <code>password</code><br>
                     Admin: <code>admin</code> / <code>password</code>
                 </small>
-            </div>
+            </div> -->
         </div>
     </div>
 </div>
